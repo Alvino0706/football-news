@@ -33,7 +33,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ["localhost", "127.0.0.1", "alvino-revaldi-footballnews.pbp.cs.ui.ac.id"]
 CSRF_TRUSTED_ORIGINS = [
-    "<https://alvino-revaldi-footballnews.pbp.cs.ui.ac.id.>"
+    "https://alvino-revaldi-footballnews.pbp.cs.ui.ac.id"
 ]
 
 
